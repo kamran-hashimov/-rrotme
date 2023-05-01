@@ -1,4 +1,4 @@
-# rrotme
+# rrootme
 
 This python program solve the room that called "rrotme" which is on the tryhackme.com 
 Just start the program
