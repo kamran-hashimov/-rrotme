@@ -1,2 +1,6 @@
 # -rrotme
-CTF solver
+This python program solve the room that called "rrotme" which is on the tryhackme.com 
+Just start the program
+It might be take a few minutes to finish.
+It works on Kali Linux. To be honest I didn't try it on Windows :)
+All 3 files must be same directory.
